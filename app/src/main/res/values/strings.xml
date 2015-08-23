@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Note</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">About</string>
+    <string name="title">Title : </string>
+    <string name="menu_delete">Delete Item</string>
+    <string name="no_title">Untitled</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save_menu_noteedit">Save</string>
+    <string name="delete_menu_noteedit">Delete</string>
+    <string name="cancel_menu_noteedit">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="open">Open</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_comment">Do you want to save ?</string>
+
+</resources>

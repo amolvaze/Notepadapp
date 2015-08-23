@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res" >
+            <file
+                name="create"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\create.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="create_note"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\create_note.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\ic_action_cancel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\ic_action_edit.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\ic_action_new.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_delete"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\ic_menu_delete.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_save"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\ic_menu_save.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_notepad_launch"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\ic_notepad_launch.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_view"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\list_view.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="notelist"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\notelist.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="notepad_edit"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\notepad_edit.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="notetop"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\notetop.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="note_list"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\note_list.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="save_as_icon"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-hdpi\save_as_icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-ldpi\ic_action_new.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-mdpi\ic_action_new.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-xhdpi\ic_action_new.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="custom_dialog"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\layout\custom_dialog"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="notelist"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\layout\notelist.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="notes_row"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\layout\notes_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="note_edit"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\layout\note_edit.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="noteedit_menu"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\menu\noteedit_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="notelist_menu"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\menu\notelist_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="note_popup"
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\menu\note_popup.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\values\ids.xml"
+                qualifiers="" >
+                <item
+                    name="saveAsId"
+                    type="id">
+saveAsId
+                </item>
+            </file>
+            <file
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="delete_menu_noteedit" >Delete
+                </string>
+                <string name="menu_delete" >Delete Item
+                </string>
+                <string name="cancel_menu_noteedit" >Cancel
+                </string>
+                <string name="open" >Open
+                </string>
+                <string name="cancel" >Cancel
+                </string>
+                <string name="edit_note" >Edit Note
+                </string>
+                <string name="ok" >OK
+                </string>
+                <string name="exit" >Exit
+                </string>
+                <string name="save_menu_noteedit" >Save
+                </string>
+                <string name="app_name" >Note
+                </string>
+                <string name="title" >Title : 
+                </string>
+                <string name="no_title" >Untitled
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="about" >About
+                </string>
+                <string name="enter_comment" >Do you want to save ?
+                </string>
+            </file>
+            <file
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\AMOL-eBooks\UI &amp; Mobile\Assignments\Notepad App\Note1\app\src\debug\res" />
+    </dataSet>
+
+</merger>

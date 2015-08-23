@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/AMOL-eBooks/UI%20&%20Mobile/Assignments/Notepad%20App/Note1/app/src/main/res/values/ids.xml -->
+    <eat-comment />
+
+    <item name="saveAsId" type="id">saveAsId</item>
+    <!-- From: file:/E:/AMOL-eBooks/UI%20&%20Mobile/Assignments/Notepad%20App/Note1/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="about">About</string>
+    <string name="app_name">Note</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_menu_noteedit">Cancel</string>
+    <string name="delete_menu_noteedit">Delete</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="enter_comment">Do you want to save ?</string>
+    <string name="exit">Exit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_delete">Delete Item</string>
+    <string name="no_title">Untitled</string>
+    <string name="ok">OK</string>
+    <string name="open">Open</string>
+    <string name="save_menu_noteedit">Save</string>
+    <string name="title">Title : </string>
+    <!-- From: file:/E:/AMOL-eBooks/UI%20&%20Mobile/Assignments/Notepad%20App/Note1/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/note_list">
+   
+    <TextView
+        android:id="@+id/textViewTop"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="35dp" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btmLayout"
+        android:layout_below="@+id/textViewTop"
+        android:background="@drawable/list_view"
+        android:divider="#D3D3D3"
+        android:dividerHeight="1sp" 
+        android:footerDividersEnabled="true" />
+
+    <LinearLayout
+        android:id="@+id/btmLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"        
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="10dp"
+        android:weightSum="1">
+
+    	<Button
+    	    android:id="@+id/addnotebutton"
+    	    android:layout_width="50dp"
+    	    android:layout_height="98dp"
+    	    android:background="@drawable/ic_action_new"
+            android:layout_weight="0.19" />
+
+    </LinearLayout>
+    
+    	
+</RelativeLayout> <!-- From: file:/E:/AMOL-eBooks/UI%20&amp;%20Mobile/Assignments/Notepad%20App/Note1/app/src/main/res/layout/notelist.xml -->
